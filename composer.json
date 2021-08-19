@@ -1,5 +1,5 @@
 {
-    "name": "laravel/laravel",
+    "name": "mieproject/laravel-stisla-livewire",
     "type": "project",
     "description": "The Laravel Framework.",
     "keywords": [
@@ -13,7 +13,7 @@
         "fideloper/proxy": "^4.2",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
-        "laravel/framework": "^8.5",
+        "laravel/framework": "^8",
         "laravel/jetstream": "^1.6",
         "laravel/sanctum": "^2.6",
         "laravel/tinker": "^2.0",
